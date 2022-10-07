@@ -1,8 +1,9 @@
 <template>
   <div>
-    <h1>Directivas en VUE.js</h1>
+    <h1>Universidad Tecnologica  de Tehuacan </h1>
     <hr/>
-    <h2>v.text</h2>
+    <h2>APW</h2>
+    <h3>3 B </h3>
     <span v-text = "'hola desde la directiva de  v-text'"> </span>
     <br>
     <span> Hola desde la directiva de  v-text</span>
@@ -20,6 +21,8 @@
     }),
   }
 </script>
+
+
 
 
 
